@@ -1,0 +1,6 @@
+@import url('./reset.css');
+@import url('./base.css');
+
+.form {
+  width: 360px;
+}
